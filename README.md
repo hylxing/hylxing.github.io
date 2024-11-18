@@ -1,4 +1,4 @@
-5a.中国  
+  
 https://hylxing.github.io  
   
   &ensp;&ensp;开源主页，使用者请删除index.html里我的百度统计，如果你不删除直接就使用我的。  
@@ -25,6 +25,6 @@ https://hylxing.github.io
   很多地方我都加了注释。
   
   
-  官网主页：http://6xing.top  
+  官网主页：https://www.hy6xing.cn  
    
   不懂就要问，不要瞎搞。
