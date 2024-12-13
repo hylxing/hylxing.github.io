@@ -25,6 +25,6 @@ https://hylxing.github.io
   很多地方我都加了注释。
   
   
-  官网主页：https://www.hy6xing.cn  
+  官网主页：https://w.hy6xing.cn  
    
   不懂就要问，不要瞎搞。
